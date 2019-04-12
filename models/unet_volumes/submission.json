@@ -1,0 +1,15 @@
+{
+  "result": [
+    {
+      "singlecoil_leaderboard": {
+        "recon_zip_url": "",
+        "model_name": "VNet",
+        "model_description": "unet_volumes_eval_2019-04-09T01:14:40.832805",
+        "nyudata_only": true,
+        "participants": null,
+        "paper_url": null,
+        "code_url": null
+      }
+    }
+  ]
+}

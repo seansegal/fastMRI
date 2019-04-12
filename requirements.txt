@@ -1,0 +1,13 @@
+torchvision
+h5py
+torch==0.4.1
+tensorboardX==1.4
+pydicom
+opencv-python
+Pillow==5.4.1
+IPython
+runstats==1.7.1
+scikit-image==0.14.0
+numpy==1.15.4
+pyyaml
+pandas

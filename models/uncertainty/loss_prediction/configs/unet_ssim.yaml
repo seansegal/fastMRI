@@ -1,0 +1,3 @@
+model_module: models.unet.train
+checkpoint: experiments/unet_baseline_2019-03-17T21:17:01.629000/model.pt
+loss: ssim
